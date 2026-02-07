@@ -30,6 +30,7 @@ WINDOW FUNCTION QUERIES
 <img width="926" height="795" alt="Screenshot 2026-02-06 135407" src="https://github.com/user-attachments/assets/0f7b4e13-22a9-4902-82de-c2f821bd1c33" />
 
 KEY INSIGHTS
+
 .Sales performance varies significantly by region, with a small number of products contributing most of the revenue.
 .Customer segmentation reveals disinct spending groups that can be targeted with tailored marketing strategigies.
 .Month over month analysis highlights seasonal sales patterns useful for inventory planning.
@@ -40,6 +41,7 @@ Diagnostic analysis: Differences in sales performance are influenced by regional
 Prescriptive analysis: The compony should prioritize high-performing products in stong regions, target premium customers with loyaty programs, and plan inventory based on observed sales trends.
 
 REFERENCES 
+
 Oracle Corporation. Oracle Database SQL Language Reference.
 https://docs.oracle.com/en/database/
 
@@ -58,6 +60,7 @@ https://www.w3schools.com/sql/
 Kimball, R., & Ross, M. (2013). The Data Warehouse Toolkit (3rd ed.). Wiley.
 
 Academic INTEGRITY
+
 ALL sources were properly cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.”
 
 
